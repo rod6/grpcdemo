@@ -20,6 +20,7 @@ cd grpcdemo
 mkdir build
 cd build
 cmake ..
+make
 ./bin/greeter_server
 ./bin/greeter_client
 ```
